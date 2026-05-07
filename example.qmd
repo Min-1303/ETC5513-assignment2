@@ -14,3 +14,11 @@ This is my example Quarto document for Assignment 2.
 ```{r}
 summary(cars)
 ```
+
+# Test Branch Changes
+
+This section was added in the testbranch branch.
+
+```{r}
+hist(cars$speed)
+```
