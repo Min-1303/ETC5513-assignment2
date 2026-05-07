@@ -14,3 +14,11 @@ This is my example Quarto document for Assignment 2.
 ```{r}
 summary(cars)
 ```
+
+# Main Branch Changes
+
+This section was added on the main branch. It is intentionally different from the testbranch version.
+
+```{r}
+boxplot(cars$speed)
+```
