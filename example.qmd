@@ -15,10 +15,11 @@ This is my example Quarto document for Assignment 2.
 summary(cars)
 ```
 
-# Main Branch Changes
+# Branch Changes
 
-This section was added on the main branch. It is intentionally different from the testbranch version.
+This section combines the changes from both main and testbranch.
 
 ```{r}
 boxplot(cars$speed)
+hist(cars$speed)
 ```
